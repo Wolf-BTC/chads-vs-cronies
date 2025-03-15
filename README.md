@@ -1,2 +1,2 @@
 # chads-vs-cronies
-A tower defense game Richard Heart themed
+A tower defense game, Richard Heart inspired
